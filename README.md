@@ -10,6 +10,5 @@ Olá! Eu sou Pedro, esse é meu reṕositorio sobre a materia "pensamento comput
 ## Descrição 
 
 Este projeto é dedicado ao adoravel e engraçado Bart!
-## Contato
 
-Se você quiser entrar em contato, pode me encontrar em [pedro.siben@escola.pr.gov.br].
+![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRsY2lmNXNydnA4b3h6MzMyNzhxNjhuZHR0ODJzazVqcGp0OHZoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SajdfSNg6f8rK/giphy.gif)
